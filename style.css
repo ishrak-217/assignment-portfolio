@@ -77,7 +77,6 @@ p{
 }
 section{
     height: 800px;
-    padding-bottom: 70px;
 }
 .button{
     text-decoration: none;
@@ -111,7 +110,30 @@ section{
     height: 80%;
     margin-left: 12%;
     margin-right: 17%;
-    margin-top: 5%;
+    margin-top: 20px;
+}
+.boxdiv{
+    width: 30%;
+    height: 75%;
+    float: left;
+    background-color: white;
+    margin: 3px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightgray;
+}
+#personal-interest{
+    height: 550px;
+    background-color: whitesmoke;
+    padding-bottom: 3%;
+    
+}
+.int-box{
+    text-decoration: none;
+}
+.int-box a{
+    text-decoration: none;
+    color: black;
 }
 .work-part{
     height: 300px;
