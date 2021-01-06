@@ -86,8 +86,8 @@ p{
     color: white;
 }
 .project-banner{
-    background-color: whitesmoke;
-    height: 750px;
+    background-image: linear-gradient(180deg, whitesmoke, white);
+    height: 550px;
 }
 .threeq-width{
     width: 27%;
@@ -103,7 +103,7 @@ p{
     box-shadow: 5px 5px 20px lightgray;
     border-radius: 15px;
     background-color: white;
-    height: 70%;
+    height: 80%;
 }
 .mid-project{
     width: 80%;
@@ -124,7 +124,7 @@ p{
 }
 #personal-interest{
     height: 550px;
-    background-image: linear-gradient(180deg, whitesmoke, gray);
+    background-image: linear-gradient(180deg, white, gray);
     padding-bottom: 3%;
     
 }
