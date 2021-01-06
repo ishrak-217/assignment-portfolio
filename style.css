@@ -17,9 +17,7 @@ h3{
 p{
     font-size: 15px;
     color: dimgray;
-    text-align: left;
     width: 80%;
-    padding-bottom: 25px;
 }
 .allignment{
     padding-top: 5%;
@@ -88,8 +86,29 @@ section{
 }
 .work-part{
     height: 300px;
-    width: 70%;
 }
-.white-color{
+.work-banner{
+    background-image: url("shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    height: 80%;
+    background-size: 100%;
+    margin: 4% 20%;
+}
+.work-banner h2{
+    font-size: 50px;
+    text-align: left;
+    padding: 8% 5%;
     color: white;
+}
+.work-banner a{
+	position: relative;
+	left: 87%;
+ 	top: -45%;
+	margin-left: -75px;
+ 	display: inline-block;
+ 	padding: 15px 35px;
+}
+.contact{
+    text-align: center;
+    padding-bottom: 5%;
 }
