@@ -1,0 +1,98 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+    margin-top: 15%;
+    color: midnightblue;
+}
+h3{
+    font-size: 24px;
+    color: midnightblue;
+}
+p{
+    font-size: 15px;
+    color: dimgray;
+    text-align: left;
+    width: 80%;
+    padding-bottom: 25px;
+}
+.allignment{
+    padding-top: 5%;
+    text-align: center;
+}
+.salmon-highlight{
+    color: salmon;
+}
+.blue-text{
+    color: midnightblue;
+}
+.quartar-width{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2%;
+    padding-left: 2%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 800px;
+    padding-bottom: 70px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient( tomato, salmon);
+    padding: 10px 30px;
+    border-radius: 4px;
+    color: white;
+}
+.threeq-width{
+    width: 27%;
+    float: left;
+    margin-left: 2%;
+    padding: 1%;
+}
+.threeq-width img{
+    width: 100%;
+    height: 60%;
+}
+.single-exp{
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 15px;
+    background-color: white;
+    height: 70%;
+}
+.project-banner{
+    background-color: whitesmoke;
+    height: 650px;
+}
+.mid-project{
+    width: 80%;
+    height: 80%;
+    margin-left: 12%;
+    margin-right: 17%;
+    margin-top: 5%;
+}
+.work-part{
+    height: 300px;
+    width: 70%;
+}
+.work-banner{
+    
+}
+.white-color{
+    color: white;
+}
