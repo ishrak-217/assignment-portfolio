@@ -1,6 +1,27 @@
 body{
     font-family: 'Oswald', sans-serif;
-    margin: 0%;
+    margin: 0;
+}
+header{
+    border: 0 solid;
+    padding: 20px;
+    height: 50px;
+}
+nav{
+    float: right;
+    margin: 0 auto;
+    width: 500px;
+    height: 40px;
+}
+nav li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    margin-right: 40px;
+    font-size: 20px;
+}
+.intro-banner{
+    padding-top: 3%;
 }
 h1{
     font-size: 60px;
@@ -18,6 +39,9 @@ p{
     font-size: 15px;
     color: dimgray;
     width: 80%;
+}
+.padding-para{
+    padding-bottom: 25px;
 }
 .allignment{
     padding-top: 5%;
@@ -110,8 +134,12 @@ section{
 }
 .contact{
     text-align: center;
-    padding-bottom: 5%;
 }
 .contact p{
-    margin-left: 9%;
+    margin-left: 10%;
+}
+.contact img{
+    width: 40px;
+    padding: 10px;
+    
 }
