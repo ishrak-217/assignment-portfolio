@@ -61,7 +61,7 @@ p{
     float: left;
     margin-left: 5%;
     margin-right: 2%;
-    padding-left: 2%;
+    padding-left: 5%;
 }
 .half-width{
     width: 40%;
@@ -145,5 +145,4 @@ section{
 .contact img{
     width: 40px;
     padding: 10px;
-    
 }
