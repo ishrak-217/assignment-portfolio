@@ -71,7 +71,8 @@ p{
     padding-left: 2%;
 }
 .half-width img{
-    width: 100%;
+    width: 90%;
+    height: 60%;
 }
 section{
     height: 800px;
