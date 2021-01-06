@@ -24,7 +24,7 @@ p{
     text-align: center;
 }
 .salmon-highlight{
-    color: salmon;
+    color: tomato;
 }
 .blue-text{
     color: midnightblue;
@@ -103,7 +103,7 @@ section{
 .work-banner a{
 	position: relative;
 	left: 87%;
- 	top: -45%;
+ 	top: -70%;
 	margin-left: -75px;
  	display: inline-block;
  	padding: 15px 35px;
@@ -111,4 +111,7 @@ section{
 .contact{
     text-align: center;
     padding-bottom: 5%;
+}
+.contact p{
+    margin-left: 9%;
 }
