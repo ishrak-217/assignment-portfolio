@@ -75,7 +75,7 @@ p{
     width: 90%;
     height: 60%;
 }
-section{
+.intro-banner{
     height: 850px;
 }
 .button{
@@ -84,6 +84,10 @@ section{
     padding: 10px 30px;
     border-radius: 4px;
     color: white;
+}
+.project-banner{
+    background-color: whitesmoke;
+    height: 750px;
 }
 .threeq-width{
     width: 27%;
@@ -100,10 +104,6 @@ section{
     border-radius: 15px;
     background-color: white;
     height: 70%;
-}
-.project-banner{
-    background-color: whitesmoke;
-    height: 650px;
 }
 .mid-project{
     width: 80%;
