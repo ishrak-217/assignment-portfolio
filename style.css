@@ -113,18 +113,18 @@ p{
     margin-top: 20px;
 }
 .boxdiv{
-    width: 30%;
+    width: 28%;
     height: 75%;
     float: left;
     background-color: white;
-    margin: 3px;
+    margin: 2%;
     padding: 5px;
     border-radius: 10px;
     box-shadow: 5px 5px 20px lightgray;
 }
 #personal-interest{
     height: 550px;
-    background-color: whitesmoke;
+    background-image: linear-gradient(180deg, whitesmoke, gray);
     padding-bottom: 3%;
     
 }
