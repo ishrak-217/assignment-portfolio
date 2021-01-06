@@ -22,6 +22,7 @@ nav li{
 }
 nav a{
     text-decoration: none;
+    color: black;
 }
 .intro-banner{
     padding-top: 3%;
